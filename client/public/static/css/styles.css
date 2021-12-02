@@ -1,0 +1,8 @@
+#nprogress .bar {
+  background: white !important;
+}
+
+.btn,
+.form-control {
+  border-radius: 5px !important;
+}
